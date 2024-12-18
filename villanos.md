@@ -2,4 +2,4 @@
 
 * Dr. Doom
 * Loki
-* Dr. Herrera
+* Capitan America
